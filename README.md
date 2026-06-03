@@ -40,4 +40,4 @@ Test your knowledge! Look at the two options below and see if you can spot the r
 ---
 
 ## 🛠️ How to Contribute
-If you want to suggest more grammar tips to add to this list, feel free to open an issue or submit a pull request!
+If you want to suggest more grammar tips to add to this list, feel free to open an issue or submit a pull request!😊🙂😉
