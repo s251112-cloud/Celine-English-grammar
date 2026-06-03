@@ -1,161 +1,43 @@
-# Celine-English-grammar
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Celine's English Grammar Hub</title>
-    <style>
-        /* Modern styling designed to look great on iPads and mobile screens */
-        :root {
-            --primary: #4a6fa5;
-            --secondary: #13c2c2;
-            --dark: #2c3e50;
-            --light: #f8f9fa;
-            --success: #6aaa64;
-        }
+# 📚 Celine's English Grammar Web
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: var(--light);
-            color: var(--dark);
-        }
+Welcome to my personal English grammar reference guide! This page is designed to make mastering English grammar quick, clear, and easy.
 
-        header {
-            background: linear-gradient(135deg, var(--primary), #2a4d7c);
-            color: white;
-            text-align: center;
-            padding: 2.5rem 1rem;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
+---
 
-        header h1 {
-            margin: 0;
-            font-size: 2.2rem;
-            letter-spacing: -0.5px;
-        }
+## 🗂️ Grammar Units
 
-        header p {
-            margin: 0.5rem 0 0;
-            opacity: 0.9;
-            font-size: 1.1rem;
-        }
+### 🟢 Unit 1: Subject-Verb Agreement
+The subject and the verb must agree in number. A singular subject needs a singular verb, and a plural subject needs a plural verb.
 
-        main {
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 0 1.5rem;
-        }
+> ❌ **Incorrect:** Everyone have completed the quiz.
+> 
+> ✨ **Correct Layout:** Everyone **has** completed the quiz.
 
-        .card {
-            background: white;
-            border-radius: 12px;
-            padding: 1.5rem;
-            margin-bottom: 1.5rem;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-            border-left: 5px solid var(--primary);
-        }
+***
 
-        .card h2 {
-            margin-top: 0;
-            color: var(--primary);
-            font-size: 1.4rem;
-        }
+### 🔵 Unit 2: Active vs. Passive Voice
+Use the active voice when the subject performs the action. It makes your writing stronger, more direct, and easier to read.
 
-        .example-box {
-            background-color: #f0f4f8;
-            border-radius: 6px;
-            padding: 1rem;
-            margin: 0.5rem 0;
-        }
+*   **Active Voice:** The developer wrote the clean code.
+*   **Passive Voice:** The clean code was written by the developer.
 
-        .correct {
-            color: var(--success);
-            font-weight: bold;
-        }
+---
 
-        .quiz-option {
-            display: block;
-            width: 100%;
-            padding: 0.8rem;
-            margin: 0.5rem 0;
-            background: var(--light);
-            border: 2px solid #e2e8f0;
-            border-radius: 8px;
-            text-align: left;
-            font-size: 1rem;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
+## ⚡ Quick Grammar Check
 
-        .quiz-option:hover {
-            border-color: var(--primary);
-            background: #eef2f7;
-        }
+Test your knowledge! Look at the two options below and see if you can spot the right answer:
 
-        #feedback {
-            margin-top: 1rem;
-            font-weight: bold;
-            font-size: 1.1rem;
-        }
-    </style>
-</head>
-<body>
+*   [ ] **A)** Neither of the options look correct to me.
+*   [ ] **B)** Neither of the options looks correct to me.
 
-    <header>
-        <h1>English Grammar Mastery</h1>
-        <p>Your interactive guide to flawless writing</p>
-    </header>
+<details>
+<summary><b>💡 Click here to reveal the answer!</b></summary>
 
-    <main>
-        <!-- Lesson Unit 1 -->
-        <div class="card">
-            <h2>Unit 1: Subject-Verb Agreement</h2>
-            <p>The subject and verb must agree in number. Singular subjects take singular verbs, and plural subjects take plural verbs.</p>
-            <div class="example-box">
-                ❌ <em>Incorrect:</em> Everyone have completed the quiz.<br>
-                <span class="correct"> can use:</span> Everyone <strong>has</strong> completed the quiz.
-            </div>
-        </div>
+### 🎉 The correct answer is B!
+**Explanation:** Words like *"Neither"* and *"Either"* are always singular pronouns, so they require the singular verb **"looks"** instead of "look".
+</details>
 
-        <!-- Lesson Unit 2 -->
-        <div class="card">
-            <h2>Unit 2: Active vs. Passive Voice</h2>
-            <p>Use active voice when the subject performs the action. It makes your sentences stronger, direct, and easier to read.</p>
-            <div class="example-box">
-                ℹ️ <strong>Active:</strong> The developer wrote the clean code.<br>
-                ℹ️ <strong>Passive:</strong> The clean code was written by the developer.
-            </div>
-        </div>
+---
 
-        <!-- Interactive Practice Challenge -->
-        <div class="card">
-            <h2>⚡ Quick Grammar Check</h2>
-            <p>Choose the grammatically correct sentence:</p>
-            
-            <button class="quiz-option" onclick="checkAnswer(false)">A) Neither of the options look correct to me.</button>
-            <button class="quiz-option" onclick="checkAnswer(true)">B) Neither of the options looks correct to me.</button>
-            
-            <div id="feedback"></div>
-        </div>
-    </main>
-
-    <script>
-        // Simple interactive script for the quiz
-        function checkAnswer(isCorrect) {
-            const feedback = document.getElementById('feedback');
-            if (isCorrect) {
-                feedback.innerHTML = "🎉 Excellent! 'Neither' is singular, so it takes the singular verb 'looks'.";
-                feedback.style.color = "#6aaa64";
-            } else {
-                feedback.innerHTML = "❌ Try again! Hint: Focus on the pronoun 'Neither'.";
-                feedback.style.color = "#e74c3c";
-            }
-        }
-    </script>
-
-</body>
-</html>
+## 🛠️ How to Contribute
+If you want to suggest more grammar tips to add to this list, feel free to open an issue or submit a pull request!
