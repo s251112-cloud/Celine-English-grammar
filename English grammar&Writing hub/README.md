@@ -29,7 +29,7 @@ This rule depends on whether a situation is **completely impossible/imaginary** 
 ### 1. Imaginary Situations (Use **"If I Were"**)
 Use **were** for hypothetical, unreal, or imaginary scenarios (the subjunctive mood). It doesn't matter if the subject is *I, he, she, or it*—always use **were**.
 
-*   **Incorrect:** If I was you, I would fix the HTML structure.
+*   **Informal / non-standard:** If I was you, I would fix the HTML structure.
 *   **Correct:** If I **were** you, I would fix the HTML structure.
 *   **Example:** If she **were** free right now, she would help us code the repository. 
     *(But she isn't free—it's imaginary!)*
