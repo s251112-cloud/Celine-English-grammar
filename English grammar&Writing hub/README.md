@@ -27,7 +27,7 @@ Use **which** for **extra, optional information** that can be dropped without ch
 This rule depends on whether a situation is **completely impossible/imaginary** or if it **actually happened**.
 
 ### 1. Imaginary Situations (Use **"If I Were"**)
-Use **were** for hypothetical, unreal, or imaginary scenarios (the subjunctive mood). It doesn't matter if the subject is *I, he, she, or it*—always use **were**.
+Use **were** for hypothetical, unreal, or imaginary scenarios (the subjunctive mood). It doesn't matter if the subject is *I, she, it, or he*—always use **were**.
 
 *   **Informal / non-standard:** If I was you, I would fix the HTML structure.
 *   **Correct:** If I **were** you, I would fix the HTML structure.
@@ -44,4 +44,3 @@ Use **was** when discussing something that **could have actually happened** in t
 
 ### 🚀 Contributors
 *   **Celine0921** (@s251112-cloud)
-*   **marcotoa** (@marcoT0425) (the cooperator of the project)
