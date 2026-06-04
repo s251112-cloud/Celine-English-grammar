@@ -25,7 +25,7 @@ The word **none** can take a singular or plural verb depending on what it is ref
 ---
 
 ## 👩‍🦰 3. Pronoun Forms
-When writing about girls or animals, make sure to use the correct subject or object pronouns.
+When writing about girls or animals(but also include boys), make sure to use the correct subject or object pronouns.
 
 | Subject Pronoun (Does the action) | Object Pronoun (Receives the action) |
 | :--- | :--- |
