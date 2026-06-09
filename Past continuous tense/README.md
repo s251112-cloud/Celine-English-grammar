@@ -1,58 +1,57 @@
-# 📚 English Spelling & Grammar Rules: Present Continuous Tense
+# 📚 English Spelling & Grammar Rules: Past Continuous Tense
 
-This module covers the structural mechanics, phonetic spelling modifications, and context rules for the **Present Continuous Tense** (also known as the Present Progressive Tense). This tense is used to describe actions that are actively happening right now or are currently in progress around the present time.
+This module covers the structural syntax, participle spelling transformations, and narrative context guidelines for the **Past Continuous Tense** (also known as the Past Progressive Tense). This tense describes actions that were actively in progress at a specific point in the past or were ongoing when interrupted.
 
 ---
 
 ## 🔤 1. Base Sentence Formulas
 
-The present continuous tense is a compound structure formed by combining the present tense of the auxiliary verb **be** (`am`, `is`, `are`) with the **present participle (Verb-ing)** of the main verb.
+The past continuous tense is a compound structure formed by combining the past tense of the auxiliary verb **be** (`was` or `were`) with the **present participle (Verb-ing)** of the main action verb.
 
 ### 🔹 Sentence Structure Blueprints
-* **Affirmative:** `Subject + am/is/are + Verb-ing`
-  * *Example:* The **girl is training** her new puppy in the yard.
-* **Negative:** `Subject + am/is/are + not + Verb-ing`
-  * *Example:* The **kitten is not (isn't) sleeping** on the couch right now.
-* **Question:** `Am/Is/Are + Subject + Verb-ing?`
-  * *Example:* **Are** the **birds chirping** outside her window?
+* **Affirmative:** `Subject + was/were + Verb-ing`
+  * *Example:* The **girl was walking** her horse when it started to rain.
+* **Negative:** `Subject + was/were + not + Verb-ing`
+  * *Example:* The **puppy wasn't sleeping** soundly during the storm.
+* **Question:** `Was/Were + Subject + Verb-ing?`
+  * *Example:* **Was** the **kitten playing** with the purple yarn?
 
 ### 🔹 Auxiliary Verb Alignment Map
-| Subject Pronoun Group | Correct "Be" Form | Project Example |
+| Subject Pronoun Group | Correct Past "Be" Form | Project Example |
 | :--- | :--- | :--- |
-| **I** | `am` | **I am walking** the horse to the stable. |
-| **He, She, It, Singular Nouns** (The girl, the cat) | `is` | The **girl is feeding** her hamster. |
-| **You, We, They, Plural Nouns** (The girls, the dogs) | `are` | The **puppies are playing** with a ball. |
+| **I, He, She, It, Singular Nouns** (The girl, the dog) | `was` | The **girl was feeding** her hungry hamster. |
+| **You, We, They, Plural Nouns** (The girls, the cats) | `were` | The **puppies were barking** at the stranger. |
 
 ---
 
 ## 🔧 2. Present Participles (Verb-ing): Spelling Shift Rules
 
-While most English verbs simply take the `-ing` suffix, verbs with specific structural endings require spelling adjustments before the suffix can be appended:
+Because the past continuous requires a progressive **Verb-ing** structure, it follows the exact same suffix spelling adaptations as the present continuous tense:
 
 | Verb Ending Pattern | Applied Rule Shift | Project Example |
 | :--- | :--- | :--- |
-| **Most standard verbs** | Just add **-ing** | *Eat $\rightarrow$ Eating*<br>The **cat is eating** its breakfast. |
-| **Ends in a silent -e** | Drop the **-e**, add **-ing** | *Chase $\rightarrow$ Chasing*<br>The **dog is chasing** its tail. |
-| **Ends in -ie** | Change **-ie** to **-y**, add **-ing** | *Lie $\rightarrow$ Lying*<br>The sick **puppy is lying** on its warm pad. |
-| **1 Short Vowel + 1 Consonant** (CVC pattern) | Double the final consonant, add **-ing** | *Run $\rightarrow$ Running*<br>The **girl is running** along the track with her dog. |
+| **Most standard verbs** | Just add **-ing** | *Eat $\rightarrow$ Eating*<br>The **cat was eating** its food when the phone rang. |
+| **Ends in a silent -e** | Drop the **-e**, add **-ing** | *Chase $\rightarrow$ Chasing*<br>The **dog was chasing** a squirrel up the tree. |
+| **Ends in -ie** | Change **-ie** to **-y**, add **-ing** | *Lie $\rightarrow$ Lying*<br>The **puppy was lying** on the soft rug all morning. |
+| **1 Short Vowel + 1 Consonant** (CVC pattern) | Double the final consonant, add **-ing** | *Run $\rightarrow$ Running*<br>The **girl was running** with her dog along the trail. |
 
 ---
 
 ## 🔄 3. Main Contextual Uses
 
-The present continuous tense is structurally selected for three primary real-world scenarios:
+The past continuous tense is strategically selected to paint a background picture or manage multi-action timelines:
 
-### 🔹 A. Actions Happening Exactly Right Now
-Actions that are taking place at the literal second of speaking. Often paired with markers like *now, right now, or at the moment*.
-* *Example:* The girl **is writing** an HTML code block right now.
+### 🔹 A. Actions Interrupted by a Sudden Event
+Used to describe an ongoing background action that was cut short by a brief, sudden event (which takes the simple past tense). These timelines are typically connected using **when** or **while**.
+* *Example:* The girl **was training** her parrot **when** it suddenly flew out the open window.
 
-### 🔹 B. Temporary Situations (In Progress but Not Constant)
-Actions that are happening around now, but are not part of a permanent, lifelong routine.
-* *Example:* The girl **is training** a guide dog this month. *(This is a temporary project, not her permanent lifestyle).*
+### 🔹 B. Specific Point-in-Time Focus
+Highlights what an animal or person was actively doing at an exact chronological timestamp in the past.
+* *Example:* Yesterday at 3:00 PM, the girl **was riding** her horse through the valley.
 
-### 🔹 C. Changing or Developing Situations
-Trends, growth tracking, or dynamic adjustments happening gradually over time.
-* *Example:* Her small kitten **is growing** bigger every single week.
+### 🔹 C. Parallel Actions (Simultaneous Events)
+Used when two separate actions were occurring continuously at the exact same time in the past.
+* *Example:* While the girl **was coding** her CSS stylesheet, her kitten **was sleeping** on top of the warm laptop keyboard.
 
 ---
 
